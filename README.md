@@ -7,6 +7,8 @@ This was based on Google's AIY Vision Kit and taken from the main repository in 
 
 **Website**: https://aiyprojects.withgoogle.com/vision/
 
+**Demo**: 
+
 **Directions**:
 1. Download 'buzzer_victory_fanfare.py' into your vision kit's directory
 2. Open the rasberry pi terminal for your vision kit
