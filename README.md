@@ -7,7 +7,9 @@ This was based on Google's AIY Vision Kit and taken from the main repository in 
 
 **Website**: https://aiyprojects.withgoogle.com/vision/
 
-**Demo Video**: Coming Soon
+**Demo Video**: Click image to watch!
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/aT0fIn6RRuM/0.jpg)](https://www.youtube.com/watch?v=aT0fIn6RRuM "Click to watch!")
 
 **Directions**:
 1. Download 'buzzer_victory_fanfare.py' into your vision kit's directory
