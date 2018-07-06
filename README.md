@@ -16,7 +16,7 @@ This was based on Google's AIY Vision Kit and taken from the main repository in 
 2. Open the rasberry pi terminal for your vision kit
 3. Copy and paste the directory path where you placed the file
 4. Open the terminal
-5. Type into terminal: "cd <your-path-in-step-3>" 
+5. Type into terminal: "cd (your-path-in-step-3)" 
 6. Type into terminal: ./buzzer_victory_fanfare.py
 7. Wait for it to autostart
 8. Press the button as many times as you want
